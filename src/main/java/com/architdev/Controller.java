@@ -12,6 +12,6 @@ public class Controller {
 	@GetMapping("/data")
 	public String getData()
 	{
-		return "First data";
+		return "Updated data";
 	}
 }
